@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\AngularShop\AngularShop\bin\Debug\netcoreapp2.2\AngularShop.deps.json
+C:\Users\User\source\repos\AngularShop\AngularShop\bin\Debug\netcoreapp2.2\AngularShop.runtimeconfig.json
+C:\Users\User\source\repos\AngularShop\AngularShop\bin\Debug\netcoreapp2.2\AngularShop.runtimeconfig.dev.json
+C:\Users\User\source\repos\AngularShop\AngularShop\bin\Debug\netcoreapp2.2\AngularShop.dll
+C:\Users\User\source\repos\AngularShop\AngularShop\obj\Debug\netcoreapp2.2\AngularShop.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\AngularShop\AngularShop\obj\Debug\netcoreapp2.2\AngularShop.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\AngularShop\AngularShop\obj\Debug\netcoreapp2.2\AngularShop.RazorAssemblyInfo.cs
+C:\Users\User\source\repos\AngularShop\AngularShop\obj\Debug\netcoreapp2.2\AngularShop.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\AngularShop\AngularShop\obj\Debug\netcoreapp2.2\AngularShop.AssemblyInfo.cs
+C:\Users\User\source\repos\AngularShop\AngularShop\obj\Debug\netcoreapp2.2\AngularShop.RazorTargetAssemblyInfo.cache
+C:\Users\User\source\repos\AngularShop\AngularShop\bin\Debug\netcoreapp2.2\AngularShop.pdb
+C:\Users\User\source\repos\AngularShop\AngularShop\obj\Debug\netcoreapp2.2\AngularShop.dll
+C:\Users\User\source\repos\AngularShop\AngularShop\obj\Debug\netcoreapp2.2\AngularShop.pdb
+C:\Users\User\source\repos\AngularShop\AngularShop\obj\Debug\netcoreapp2.2\AngularShop.csprojAssemblyReference.cache
