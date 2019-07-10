@@ -10,5 +10,5 @@ for execute client:
 for execute server: 
 1. Open project in VS17 or another IDE or version.
 2. In appsetting.json change your connection string to db.
-3. Execute command Enable-Migrations after Add-Migration Init
+3. Execute command Enable-Migrations after Add-Migration Init after Update-Database
 4. Press F5 for run or enter dotnet run in cmd.
